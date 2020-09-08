@@ -19,7 +19,7 @@ export default class Resume extends Component {
                   <h3>Western Michigan University</h3>
                   <p className="info">
                     BS in Computer Science <span>•</span>{" "}
-                    <em className="date">Expected April 2021 </em>
+                    <em className="date">Expected 2021 </em>
                   </p>
                 </div>
               </div>{" "}
