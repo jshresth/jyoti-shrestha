@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/jyoti-shrestha/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/jyoti-shrestha/static/js/main.a5b4492a.chunk.js",
-    "main.js.map": "/jyoti-shrestha/static/js/main.a5b4492a.chunk.js.map",
+    "main.css": "/jyoti-shrestha/static/css/main.69eda509.chunk.css",
+    "main.js": "/jyoti-shrestha/static/js/main.7d5f4203.chunk.js",
+    "main.js.map": "/jyoti-shrestha/static/js/main.7d5f4203.chunk.js.map",
     "runtime-main.js": "/jyoti-shrestha/static/js/runtime-main.a308a8bc.js",
     "runtime-main.js.map": "/jyoti-shrestha/static/js/runtime-main.a308a8bc.js.map",
     "static/js/2.ebeb2c73.chunk.js": "/jyoti-shrestha/static/js/2.ebeb2c73.chunk.js",
     "static/js/2.ebeb2c73.chunk.js.map": "/jyoti-shrestha/static/js/2.ebeb2c73.chunk.js.map",
     "index.html": "/jyoti-shrestha/index.html",
-    "precache-manifest.3510876689a012d49acfc3841c1cbb78.js": "/jyoti-shrestha/precache-manifest.3510876689a012d49acfc3841c1cbb78.js",
+    "precache-manifest.3d547457e007c5605389ff26c196466c.js": "/jyoti-shrestha/precache-manifest.3d547457e007c5605389ff26c196466c.js",
     "service-worker.js": "/jyoti-shrestha/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/jyoti-shrestha/static/css/main.5ecd60fb.chunk.css.map",
+    "static/css/main.69eda509.chunk.css.map": "/jyoti-shrestha/static/css/main.69eda509.chunk.css.map",
     "static/js/2.ebeb2c73.chunk.js.LICENSE.txt": "/jyoti-shrestha/static/js/2.ebeb2c73.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a308a8bc.js",
     "static/js/2.ebeb2c73.chunk.js",
-    "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.a5b4492a.chunk.js"
+    "static/css/main.69eda509.chunk.css",
+    "static/js/main.7d5f4203.chunk.js"
   ]
 }
