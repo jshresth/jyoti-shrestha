@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7f6a57399375382c0d9bae8ae04b30fc",
+    "revision": "a2aba6896600c83ce1660c6d4de97af4",
     "url": "/jyoti-shrestha/index.html"
   },
   {
-    "revision": "05d7ea0b3959552475ee",
+    "revision": "42d3cbe6994a8710f5bf",
     "url": "/jyoti-shrestha/static/css/main.69eda509.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/jyoti-shrestha/static/js/2.ebeb2c73.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "05d7ea0b3959552475ee",
-    "url": "/jyoti-shrestha/static/js/main.7d5f4203.chunk.js"
+    "revision": "42d3cbe6994a8710f5bf",
+    "url": "/jyoti-shrestha/static/js/main.58b9a9f1.chunk.js"
   },
   {
     "revision": "35d3aa3bb5344a52e0d4",
