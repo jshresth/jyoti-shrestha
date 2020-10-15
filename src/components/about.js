@@ -44,7 +44,7 @@ export default class About extends Component {
                 <div className="columns download">
                   <p>
                     <a
-                      href="https://drive.google.com/file/d/1W05_OCyH-TuU1qxpqEVWzeKORjtoYljR/view?usp=sharing"
+                      href="https://drive.google.com/file/d/1-wgyb_Prb-iPewXIaY5OBa_g_xfgcgyX/view?usp=sharing"
                       className="button"
                     >
                       <i className="fa fa-download" />
